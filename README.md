@@ -1,1 +1,1 @@
-Merupakan source code dari webapp Noted. front
+Merupakan source code dari webapp Noted.
